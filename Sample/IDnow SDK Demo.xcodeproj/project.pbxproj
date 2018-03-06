@@ -45,6 +45,7 @@
 		6FC64E821AC1EFC800BA9B5B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		6FC64E851AC1EFC800BA9B5B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
 		721111A36B20B84DE8E0BEAF /* Pods-IDnow SDK Demo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IDnow SDK Demo.release.xcconfig"; path = "Pods/Target Support Files/Pods-IDnow SDK Demo/Pods-IDnow SDK Demo.release.xcconfig"; sourceTree = "<group>"; };
+		A9DF4960204EEE8F00C8B660 /* IgnoredImages.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = IgnoredImages.xcassets; sourceTree = "<group>"; };
 		D62DFA8E1C007D5700BD5788 /* Accelerate.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Accelerate.framework; path = System/Library/Frameworks/Accelerate.framework; sourceTree = SDKROOT; };
 		D62DFA901C007D6400BD5788 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 		DC973C73D3FC164A236179D0 /* Pods-IDnow SDK Demo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-IDnow SDK Demo.debug.xcconfig"; path = "Pods/Target Support Files/Pods-IDnow SDK Demo/Pods-IDnow SDK Demo.debug.xcconfig"; sourceTree = "<group>"; };
@@ -118,6 +119,7 @@
 				6FC64E821AC1EFC800BA9B5B /* Images.xcassets */,
 				6FC64E841AC1EFC800BA9B5B /* LaunchScreen.xib */,
 				6FC64E721AC1EFC800BA9B5B /* Supporting Files */,
+				A9DF4960204EEE8F00C8B660 /* IgnoredImages.xcassets */,
 			);
 			path = "IDnow SDK Demo";
 			sourceTree = "<group>";
